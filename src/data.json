@@ -1,0 +1,151 @@
+[
+	{
+		"content": "We live on a lake. Today <person> tested the ice. <exclamation> it's frozen! Now I am off to <verb> my skates. I <verb> in the <place>, not there. I look in the <place>, nope not there. I search high and low for my ice <noun>. Ok so the one place I haven't looked, <verb> my <noun>. <exclamation> they are there! Let's go skating!",
+		"title": "My Skates!",
+		"partsOfSpeech": [
+		    "<person>",
+		    "<exclamation>",
+		    "<verb>",
+		    "<verb>",
+		    "<place>",
+		    "<place>",
+		    "<noun>",
+		    "<verb>",
+		    "<noun>",
+		    "<exclamation>"
+		]
+	},
+	{
+		"content": "Every <month> we <verb> to a tree <place> far away. Not just any <adjective> farm, a <adjective> tree <place>. My dad and I <verb> onto the <noun> to <verb> for the perfect <noun>. Some people like them <adjective> and <adjective> and some like them <color> and fat. We are searching for a tall and <adjective> one! Over there! I exclaim. Dad, it's over there! Off we <verb>, saw in hand to <verb> this year's <noun> down. <exclamation> it's <holiday> finally!",
+		"title": "Christmas Tree!",
+		"partsOfSpeech": [
+			"<month>",
+			"<verb>",
+			"<place>",
+			"<adjective>",
+			"<adjective>",
+			"<place>",
+			"<verb>",
+			"<noun>",
+			"<verb>",
+			"<noun>",
+			"<adjective>",
+			"<adjective>",
+			"<color>",
+			"<adjective>",
+			"<verb>",
+			"<verb>",
+			"<noun>",
+			"<exclamation>",
+			"<holiday>"
+		]
+	},
+	{
+		"content": "Today I saw him again. When he looks at me with those <color> eyes, it makes my <body part> go pitterpat, and I feel as if I have <plural noun> in my stomach. When he scrunches his nose, I want to <verb> him softly. He is so <adjective> and <adjective>. Tomorrow he will be mine. For now he <verb> in the store <noun> looking at me. <noun> love is hard to resist!",
+		"title": "Puppy Love",
+		"partsOfSpeech": [
+			"<color>",
+			"<body part>",
+			"<plural noun>",
+			"<verb>",
+			"<adjective>",
+			"<adjective>",
+			"<verb>",
+			"<noun>",
+			"<noun>"
+		]
+	},
+	{
+		"content": "Planting a vegetable garden is not only fun, it also helps save <noun or plural noun>. You will need a piece of <adjective> land. You may need a <noun> to keep the <noun or plural noun> and <noun or plural noun> out. As soon as <noun> is here, you can go out there with your <type of tool> and plant all kinds of <noun or plural noun>. Then in a few months, you will have corn on the <noun> and big, <adjective> flowers.",
+		"title": "Spring Garden",
+		"partsOfSpeech": [
+			"<noun or plural noun>",
+			"<adjective>",
+			"<noun>",
+			"<noun or plural noun>",
+			"<noun or plural noun>",
+			"<noun>",
+			"<type of tool>",
+			"<noun or plural noun>",
+			"<noun>",
+			"<adjective>"
+		]
+	},
+	{
+		"content": "Pizza was invented by a <adjective> <nationality> chef named <person>. To make a pizza you need to take a lump of <noun>, and make a thin, round <adjective> <noun>. Then you cover it with <adjective> sauce, <adjective> cheese, and fresh chopped <plural noun>. Next you have to bake it in a very hot <noun>. When it is done, cut it into <number> <shapes>. Some kids like <food> pizza the best, but my favorite is the <food> pizza. If I couldm I would eat pizza <number> times a day!",
+		"title": "Pizza Pizza",
+		"partsOfSpeech": [
+			"<adjective>",
+			"<nationality>",
+			"<person>",
+			"<noun>",
+			"<adjective>",
+			"<noun>",
+			"<adjective>",
+			"<adjective>",
+			"<plural noun>",
+			"<noun>",
+			"<number>",
+			"<shapes>",
+			"<food>",
+			"<food>",
+			"<number>"
+		]
+	},
+	{
+		"content": "Fall has arrived with a chill in the <noun>. The leaves are turning <color> and <color>. Night time comes quicker, which usually means <noun>! But today was a <adjective> day. My <noun> went to the <vegetable> patch. The <person> took us on a hay <verb> to a big <adjective> field. We all got to pick a <vegetable>, that was <adjective>! Yes, night comes quicker now that it's fall. But tonight my <vegetable> sits by my <noun>. <exclamation> what a <adjective> day!",
+		"title": "Pumpkin Picking",
+		"partsOfSpeech": [
+			"<noun>",
+			"<color>",
+			"<color>",
+			"<noun>",
+			"<adjective>",
+			"<noun>",
+			"<vegetable>",
+			"<person>",
+			"<verb>",
+			"<noun>",
+			"<adjective>",
+			"<vegetable>",
+			"<adjective>",
+			"<vegetable>",
+			"<noun>",
+			"<exclamation>",
+			"<adjective>"
+		]
+	},
+	{
+		"content": "Here are some things to do at recess. 1. Start a game of touch <body part> ball. 2. Put a <noun> in someone's lunch bag. 3. Start a <vegetable> fight in the school <adjective> room. 4. Choose sides and have a <verb> ball tournament. 5. Demand more <plural noun> and shorter <adjective> classes. 6. Choose <number>  kids to be it at <verb>.",
+		"title": "Recess!",
+		"partsOfSpeech": [
+			"<body part>",
+			"<noun>",
+			"<color>",
+			"<vegetable>",
+			"<adjective>",
+			"<verb>",
+			"<plural noun>",
+			"<adjective>",
+			"<number>",
+			"<verb>"
+		]
+	},
+	{
+		"content": "We are having a perfectly <adjective> time this afternoon in the <adjective> home of <person>. The rooms are decorated with <plural noun> for the holidays. We will feast on <noun> and corn on the <noun>. After the big feast, we will <verb> a lot of <vegetable> pie and <color> cake. Everyone retreats to the <adjective> sofa to watch <noun>.",
+		"title": "The family visit!",
+		"partsOfSpeech": [
+			"<adjective>",
+			"<adjective>",
+			"<person>",
+			"<plural noun>",
+			"<noun>",
+			"<noun>",
+			"<verb>",
+			"<vegetable>",
+			"<color>",
+			"<adjective>",
+			"<noun>"
+		]
+	}
+]

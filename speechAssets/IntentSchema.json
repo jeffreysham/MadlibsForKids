@@ -1,0 +1,9 @@
+{"intents": [
+    {"intent": "PartOfSpeechIntent", "slots": [{"name": "partOfSpeech", "type": "AMAZON.LITERAL"}]},
+    {"intent": "AMAZON.YesIntent"},
+    {"intent": "AMAZON.NoIntent"},
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}

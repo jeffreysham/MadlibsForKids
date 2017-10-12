@@ -1,0 +1,30 @@
+PartOfSpeechIntent {snow|partOfSpeech}
+PartOfSpeechIntent {awesome|partOfSpeech}
+PartOfSpeechIntent {play|partOfSpeech}
+PartOfSpeechIntent {tree|partOfSpeech}
+PartOfSpeechIntent {blue|partOfSpeech}
+PartOfSpeechIntent {friendly|partOfSpeech}
+PartOfSpeechIntent {swim|partOfSpeech}
+PartOfSpeechIntent {funny|partOfSpeech}
+PartOfSpeechIntent {january|partOfSpeech}
+PartOfSpeechIntent {white house|partOfSpeech}
+PartOfSpeechIntent let's go with {green|partOfSpeech}
+PartOfSpeechIntent let's go with {christmas|partOfSpeech}
+PartOfSpeechIntent let's go with {fred|partOfSpeech}
+PartOfSpeechIntent let's go with {george|partOfSpeech}
+PartOfSpeechIntent let's go with {running|partOfSpeech}
+PartOfSpeechIntent let's go with {smile|partOfSpeech}
+PartOfSpeechIntent let's go with {horrible|partOfSpeech}
+PartOfSpeechIntent let's go with {smelly|partOfSpeech}
+PartOfSpeechIntent let's go with {wow|partOfSpeech}
+PartOfSpeechIntent let's go with {toys|partOfSpeech}
+PartOfSpeechIntent how about {fart|partOfSpeech}
+PartOfSpeechIntent how about {watermelon|partOfSpeech}
+PartOfSpeechIntent how about {pool|partOfSpeech}
+PartOfSpeechIntent how about {jumping jacks|partOfSpeech}
+PartOfSpeechIntent how about {watch a movie|partOfSpeech}
+PartOfSpeechIntent how about {reindeer|partOfSpeech}
+PartOfSpeechIntent how about {scarecrow|partOfSpeech}
+PartOfSpeechIntent how about {flying saucer|partOfSpeech}
+PartOfSpeechIntent how about {chewy|partOfSpeech}
+PartOfSpeechIntent how about {silly|partOfSpeech}
